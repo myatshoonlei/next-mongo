@@ -1,4 +1,4 @@
-// File: /Users/myatshoonlei/Desktop/next-mongo/app/layout.js
+// File: /Users/myatshoonlei/Desktop/junioryear/webdev/codes/next-mongo/app/layout.js
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
